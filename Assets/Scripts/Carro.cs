@@ -46,7 +46,7 @@ public class Carro : MonoBehaviour {
 
 
         if (posY>=4.196839) {
-            print("Has ganado");
+            print("Has ganado Rojo");
 
         }
         else
